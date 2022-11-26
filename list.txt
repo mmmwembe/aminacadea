@@ -1,0 +1,8 @@
+
+User accounts for \\DESKTOP-EP9GATB
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+O wner                   WDAGUtilityAccount       
+The command completed successfully.
+
